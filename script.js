@@ -65,5 +65,5 @@ class Bateria {
 }
 
 
-const a = new Bateria()
-a.checkTecla()
+const battery = new Bateria()
+battery.checkTecla()
